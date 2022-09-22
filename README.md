@@ -4,3 +4,12 @@ Repositori ini digunakan untuk belajar berbagai teknologi khususnya dalam bidang
 Daftar Channel Youtube untuk belajar pemorgraman yang mantap
 - WEB Programming UNPAS
 - Programmer Zaman Now
+
+
+Daftar rencana 2023
+- Menuntaskan belajar pemrograman WEB
+- Menuntaskan Skripsi
+- Dapat perjaan sebagai
+  * Programmer
+  * Guru
+  * 3D Modeller
