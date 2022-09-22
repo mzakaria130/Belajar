@@ -13,6 +13,3 @@ Daftar rencana 2023
   * Programmer
   * 3D Modeller
   * Guru
-  * ubah 1
-  * ubah 2 
-  * ubah 3
