@@ -11,6 +11,8 @@ Daftar rencana 2023
 - Menuntaskan Skripsi
 - Dapat perjaan sebagai
   * Programmer
-  * ubah 5
   * 3D Modeller
-  * ubah 6
+  * Guru
+  * ubah 1
+  * ubah 2 
+  * ubah 3
