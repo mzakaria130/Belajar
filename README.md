@@ -12,4 +12,6 @@ Daftar rencana 2023
 - Dapat perjaan sebagai
   * Programmer
   * Guru
-  * 3D Modeller
+  * ubah 1
+  * ubah 2 
+  * ubah 3
